@@ -1,0 +1,28 @@
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.Form1.resources
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.Properties.Resources.resources
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csproj.GenerateResource.cache
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.exe.config
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.exe
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.pdb
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\bitzhuwei.SharpGLController.dll
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.dll
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csproj.CopyComplete
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.exe
+C:\Users\Liza\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.pdb
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.exe.config
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.exe
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\KG_GL_Lipatova.pdb
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\bitzhuwei.SharpGLController.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.SceneGraph.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\bin\Debug\SharpGL.WinForms.dll
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csprojAssemblyReference.cache
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.Form1.resources
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.Properties.Resources.resources
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csproj.GenerateResource.cache
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.csproj.CopyComplete
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.exe
+D:\OneDrive - 苏荷小台\university\2 Курс\ооп\проэкты\source\repos\KG_GL_Lipatova\KG_GL_Lipatova\obj\Debug\KG_GL_Lipatova.pdb
